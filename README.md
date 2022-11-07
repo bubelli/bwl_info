@@ -1,1 +1,1 @@
-# bwl_info
+#Bundeswettbewerb Informatik aufgabe 2
